@@ -1,4 +1,4 @@
-# Table of contents
+# Katagöriler
 
 * [Hoşgeldiniz](README.md)
 
